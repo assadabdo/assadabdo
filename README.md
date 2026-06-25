@@ -77,7 +77,7 @@ To grow as a frontend developer and contribute to impactful real-world projects 
 
 ⭐ *Always learning, always building.*
 
-Imortamnt Notes:
+Important Notes:
 
 - 🚀 Most of my development skills were learned through self-study and building real projects.
 - 🔧 My background in Electronics Engineering helps me understand both software and networking concepts.
@@ -85,4 +85,4 @@ Imortamnt Notes:
 -->
   
  ## ⚡ Fun Fact
-  I enjoy fixing bugs so much that sometimes I accidentally create a few new ones while solving the original issue.
+  I enjoy fixing bugs so much what makes me  create a few new ones while solving the original issue.
