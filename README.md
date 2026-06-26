@@ -65,7 +65,7 @@ A responsive news application that fetches real-time headlines using APIs and Ne
 ## 🌍 Connect with Me
 
 - GitHub: [Your GitHub Profile](https://github.com/assadabdo)
-- Portfolio: [Your Portfolio Link](https://portoofoli.netlify.app)
+- Portfolio: [Your Portfolio Link](https://portofolio-eight-bice-94.vercel.app/)
 - Email: assadabdo665@mail.com
 - whatsapp : +249997173532
 
